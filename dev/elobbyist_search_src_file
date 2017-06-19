@@ -1,2 +1,2 @@
 export NODE_ENV=dev
-export SOLR_USER=admin123
+export SOLR_USER=admin23
