@@ -1,0 +1,7 @@
+export NODE_ENV=dev
+export SOLR_USER=admin
+export SOLR_PASSWORD=YWRtaW4xMjM=
+export SOLR_HOST=10.155.226.144
+export SOLR_CORE=lobbyist_swap
+export SOLR_TARGETCORE=targets_swap
+export WEB_URL=http://nyc-dev-web.csc.nycnet
